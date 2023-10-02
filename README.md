@@ -10,10 +10,6 @@
 <a href="https://github.com/PunchMadeAbc?tab=repositories">
   <img width=440 src="https://github-readme-stats.vercel.app/api?username=PunchMadeAbc&hide_border=true&show_icons=true&count_private=true&theme=tokyo-night" />
 </a>
-<a href="https://github.com/PunchMadeAbc?tab=repositories">
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunchMadeAbc&hide_border=true&layout=compact&count_private=true&theme=tokyo-night" />
-</a>
-
 
 <div align="center">
 <a href="https://github-stats-alpha.vercel.app/api?username=PunchMadeAbc">
