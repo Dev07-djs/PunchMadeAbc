@@ -18,7 +18,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=github,discord,html,css,js" />
   </a>
 </p>
 <img src="github-user-contribution.svg" width="100%">
