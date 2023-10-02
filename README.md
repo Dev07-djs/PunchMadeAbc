@@ -1,5 +1,3 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3EF5F7&width=435&lines=My+name+is+PunchMadeAbc+;Bot Developer+/+Web Developer" alt="Typing SVG" /></a></p>
-
 
 <div align="center">
 <a href="https://github-stats-alpha.vercel.app/api?username=PunchMadeAbc"><img alt="TYP Top Language" width="61%" src="https://github-stats-alpha.vercel.app/api?username=PunchMadeAbc&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a>
