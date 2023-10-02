@@ -14,11 +14,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js" />
-  </a>
-<p align="center">
-  <a href="https://discord.gg/cN4yFmb9SW">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=discord,html,css,js" />
   </a>
 </p>
 <img src="github-user-contribution.svg" width="100%">
