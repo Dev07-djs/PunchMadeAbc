@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://discordapp.com/users/237980256848445440/">
+<a href="https://discord.gg/cN4yFmb9SW">
   <img align="left" alt="Nikita's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://github.com/PunchMadeAbc?tab=repositories">
