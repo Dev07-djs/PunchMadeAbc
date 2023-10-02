@@ -2,7 +2,6 @@
 <a href="https://discordapp.com/users/237980256848445440/">
   <img align="left" alt="Nikita's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/PunchMadeAbc?tab=repositories">
   <img width=440 src="https://github-readme-stats.vercel.app/api?username=PunchMadeAbc&hide_border=true&show_icons=true&count_private=true&theme=transparent" />
