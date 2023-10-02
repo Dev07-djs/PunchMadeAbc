@@ -11,7 +11,10 @@
   <img width=440 src="https://github-readme-stats.vercel.app/api?username=PunchMadeAbc&hide_border=true&show_icons=true&count_private=true&theme=transparent" />
 </a>
 
-
+<div align="center">
+<a href="https://github-stats-alpha.vercel.app/api?username=PunchMadeAbc">
+<a href="https://github.com/PunchMadeAbc">
+</div>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
