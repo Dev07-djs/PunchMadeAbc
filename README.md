@@ -13,3 +13,5 @@
 
 
 <img src="github-user-contribution.svg" width="100%">
+
+<img src="https://u8views.com/api/v1/github/profiles/91275232/views/day-week-month-total-count.svg">
