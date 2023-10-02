@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://github.com/PunchMadeAbc?tab=repositories">
-  <img width=440 src="https://github-readme-stats.vercel.app/api?username=PunchMadeAbc&hide_border=true&show_icons=true&count_private=true&theme=tokyo-night" />
+  <img width=440 src="https://github-readme-stats.vercel.app/api?username=PunchMadeAbc&hide_border=true&show_icons=true&count_private=true&theme=transparent" />
 </a>
 
 <div align="center">
