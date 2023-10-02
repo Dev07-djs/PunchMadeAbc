@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <a href="https://discord.gg/sdmVj4zqCa">
 <img align="left" alt="PunchMadeAbc Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a> d
+</a> 
 
 <a href="https://github.com/PunchMadeAbc?tab=repositories">
   <img width=440 src="https://github-readme-stats.vercel.app/api?username=PunchMadeAbc&hide_border=true&show_icons=true&count_private=true&theme=transparent" />
